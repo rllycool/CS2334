@@ -1,0 +1,27 @@
+All the vehicles are being tracked from the head quarter, i.e., abstract class.
+All the vehicles are being tracked from the head quarter, i.e., abstract class.
+
+Price is shown from AbstractVANET class.
+Sending check from InheritVANET.
+Mailing check to BMW company for price 36000.
+
+Price is shown from InheritVANET class.
+Sending check from InheritVANET.
+Mailing check to TESLA company for price 40000.
+
+
+In the year 2021, for the 10th month: the first day is FRIDAY and the last day is SUNDAY
+In the year 2021, for the 11th month: the first day is MONDAY and the last day is TUESDAY
+In the year 2021, for the 12th month: the first day is WEDNESDAY and the last day is FRIDAY
+
+The Index of the vehicle is: 20
+This index is average of BHv019 and BYv021, BGv018 and CAv022, and so on.
+
+Ascii Ceiling is: 68
+Ascii Floor is: 67
+Ascii Average is: 68
+
+Letter Average: D
+
+Total number of vehicles starting with the letter 'D' is 7.
+These vehicles are: DAv026 DCv027 DDv028 DHv029 DKv030 DMv031 DYv032
